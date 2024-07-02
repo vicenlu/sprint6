@@ -28,3 +28,4 @@ export const products: ProductsProps = [
     'selected': false
   },
 ]
+export const WEB_PRODUCT_ID: string = 'product03'
